@@ -1,0 +1,4 @@
+name: AlexSoup
+version: Snapshot-1
+main: com.schwertheiliger.alexsoup.AlexSoup
+api-version: 1.14
